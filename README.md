@@ -1,1 +1,1 @@
-# Predict whether a borrowwe will repay their loan and provide a accurate interest rate.
+# Predict whether a borrower will repay their loan and provide a accurate interest rate.
